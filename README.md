@@ -1,4 +1,12 @@
-# Episode 3
+<p align="center">
+  <img src="http://dimitridessus.fr/img/logo_circle.png" width="140px" alt="TheiPhoneRetro-Subscribe">
+</p>
+
+# Ionic 2 - Episode 3
+
+<a href="https://www.youtube.com/subscription_center?add_user=theiphoneretro">
+  <img src="http://www.pngall.com/wp-content/uploads/2016/03/Subscribe-PNG-12.png" width="100px" alt="TheiPhoneRetro-Subscribe">
+</a>
 
 Dans cet épisode nous allons voir comment créer des nouvelles vues (pages) mais également comment naviguer entre elles (via navigation controller).
 
