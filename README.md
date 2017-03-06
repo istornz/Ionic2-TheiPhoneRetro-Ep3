@@ -4,6 +4,10 @@
 
 # Ionic 2 - Episode 3
 
+La serie te plait ?
+
+Alors n'hésite pas à t'abonner ! Merci :blush:
+
 <a href="https://www.youtube.com/subscription_center?add_user=theiphoneretro">
   <img src="http://www.pngall.com/wp-content/uploads/2016/03/Subscribe-PNG-12.png" width="100px" alt="TheiPhoneRetro-Subscribe">
 </a>
