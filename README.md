@@ -27,3 +27,25 @@ Bien entendu, il est parfaitement possible de suivre cet épisode sous Windows, 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=V7OYVuuvlJc"><img src="https://img.youtube.com/vi/V7OYVuuvlJc/0.jpg" alt="Ionic2-TheiPhoneRetro-Episode3"></a>
 </p>
+
+## Instructions
+
+Pour utiliser ce projet il vous suffit de suivre les étapes ci dessous :
+
+- Installer tout les modules requis.
+```{r, engine='sh', count_lines}
+npm install 
+```
+
+- Ajouter les plateformes de votre choix.
+```{r, engine='sh', count_lines}
+cordova platform add android
+cordova platform add ios
+```
+
+- Compilez et lancez le projet.
+```{r, engine='sh', count_lines}
+ionic run <PLATFORM>
+```
+
+- Profitez :tada:
